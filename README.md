@@ -13,4 +13,4 @@ replies.
 ● A user can see all the notifications and receive a new notification alert.
 
 
-######Futher Updates regarding the features to be implemented will be updated ! Stay tuned !
+###### Futher Updates regarding the features to be implemented will be updated ! Stay tuned !
